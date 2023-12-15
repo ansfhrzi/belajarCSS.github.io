@@ -1,0 +1,22 @@
+.header{
+    margin-top: 100px;
+}
+
+.img {
+    display: block;
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
+
+.center {
+    padding: 10% 2% 20%;
+    margin-bottom: 5px;
+}
+
+#pilihan-modul img{
+    display: block;
+    padding: 20px;
+    height: 150px;
+}
